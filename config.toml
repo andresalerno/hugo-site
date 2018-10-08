@@ -6,7 +6,7 @@ languageCode = "UTF-8"
 defaultContentLanguage = "pt-br"
 # Enable comments by entering your Disqus shortname
 relativeURLs = true
-disqusShortname = "andresalerno"
+disqusShortname = "andresalerno.disqus.com"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-62383348-1"
 
