@@ -29,10 +29,10 @@ paginate = 10
     url  = "/"
     weight = 1
 
-#[[menu.main]]
-#    name = "Blog"
-#    url  = "/blog/"
-#    weight = 2
+[[menu.main]]
+    name = "Blog"
+    url  = "/blog/"
+    weight = 2
 
 #[[menu.main]]
 #    name = "FAQ"
@@ -178,6 +178,6 @@ paginate = 10
     subtitle = "Gente que acredita em nossas ideias e projetos, mas acima de tudo, que são capazes e sonham em fazer uma grande diferença"
 
 [params.recent_posts]
-    enable = false
+    enable = true
     title = "Blog"
     subtitle = "Sabe aquele espaço em que você chega e aprende algo interessante? E não é só isso! Queremos que ele seja também aquele espaço onde você mostre as suas ideias e projetos e seja reconhecido pelos seus trabalhos. Chega de blá blá blá, aprenda, ensine e faça a diferença na vida de pessoas e empresas"
