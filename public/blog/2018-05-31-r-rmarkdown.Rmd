@@ -4,8 +4,8 @@ author: "Professor André Salerno, MSc"
 date: 2018-05-31T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
-output: HTML
-
+output: html_document
+draft : FALSE
 ---
 
 ```{r setup, include=FALSE}

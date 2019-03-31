@@ -4,7 +4,7 @@ date = "2018-05-26T17:06:31+02:00"
 tags = ["github", "git", "vcs"]
 categories = ["programming"]
 banner = "img/banners/banner-5.jpg"
-draft = false
+draft = true
 +++
 
 ## Move static content to `static`

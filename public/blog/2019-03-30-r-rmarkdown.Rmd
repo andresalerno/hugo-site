@@ -1,0 +1,20 @@
+---
+title: "R Programming Basics"
+author: "Professor André Salerno, MSc"
+date: 2019-03-30T21:16:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "Basics", "Introduction"]
+output: html_document
+draft : FALSE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE)
+```
+
+## Generates 100 random positive variates
+
+```{r}
+data <- abs(rnorm(100))
+mean(data)
+```
