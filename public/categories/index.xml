@@ -10,5 +10,14 @@
 	<atom:link href="http://aspartners.com.br/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Programming</title>
+      <link>http://aspartners.com.br/categories/programming/</link>
+      <pubDate>Sat, 26 May 2018 17:06:31 +0200</pubDate>
+      
+      <guid>http://aspartners.com.br/categories/programming/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

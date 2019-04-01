@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://aspartners.com.br/blog/2018/05/26/github/</loc>
+    <lastmod>2018-05-26T17:06:31+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://aspartners.com.br/blog/1/01/01/2018-05-31-r-rmarkdown/</loc>
   </url>
   
@@ -12,11 +17,13 @@
   
   <url>
     <loc>http://aspartners.com.br/</loc>
+    <lastmod>2018-05-26T17:06:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://aspartners.com.br/blog/</loc>
+    <lastmod>2018-05-26T17:06:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -34,7 +41,32 @@
   </url>
   
   <url>
+    <loc>http://aspartners.com.br/tags/git/</loc>
+    <lastmod>2018-05-26T17:06:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://aspartners.com.br/tags/github/</loc>
+    <lastmod>2018-05-26T17:06:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://aspartners.com.br/categories/programming/</loc>
+    <lastmod>2018-05-26T17:06:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://aspartners.com.br/tags/</loc>
+    <lastmod>2018-05-26T17:06:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://aspartners.com.br/tags/vcs/</loc>
+    <lastmod>2018-05-26T17:06:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   

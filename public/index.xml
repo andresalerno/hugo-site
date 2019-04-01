@@ -6,9 +6,21 @@
     <description>Recent content on AS Partners Finance &amp; Tech Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>UTF-8</language>
+    <lastBuildDate>Sat, 26 May 2018 17:06:31 +0200</lastBuildDate>
     
 	<atom:link href="http://aspartners.com.br/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Principais comandos GitHub</title>
+      <link>http://aspartners.com.br/blog/2018/05/26/github/</link>
+      <pubDate>Sat, 26 May 2018 17:06:31 +0200</pubDate>
+      
+      <guid>http://aspartners.com.br/blog/2018/05/26/github/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
     
     <item>
       <title></title>
